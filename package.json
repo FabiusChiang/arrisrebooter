@@ -1,0 +1,14 @@
+{
+  "name": "arrisrebooter",
+  "version": "1.0.0",
+  "description": "To restart the router per a simple low energy cost device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arris"
+  ],
+  "author": "Fabius Jiang",
+  "license": "ISC"
+}

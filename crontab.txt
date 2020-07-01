@@ -1,0 +1,14 @@
+#Sunday lights on check configuration
+01 14 * * Sun /home/pi/hworkspace/restartRouter/launch.sh
+
+#Configure for checking
+#25 07 * * Tue /home/pi/hworkspace/restartRouter/launch.sh
+
+#Daily configuration
+15 01 * * Mon /home/pi/hworkspace/restartRouter/launch.sh
+15 01 * * Tue /home/pi/hworkspace/restartRouter/launch.sh
+15 01 * * Wed /home/pi/hworkspace/restartRouter/launch.sh
+15 01 * * Thu /home/pi/hworkspace/restartRouter/launch.sh
+15 01 * * Fri /home/pi/hworkspace/restartRouter/launch.sh
+55 23 * * Fri /home/pi/hworkspace/restartRouter/launch.sh
+15 01 * * Sun /home/pi/hworkspace/restartRouter/launch.sh
