@@ -5,10 +5,10 @@
 #25 07 * * Tue /home/pi/hworkspace/restartRouter/launch.sh
 
 #Daily configuration
-15 01 * * Mon /home/pi/hworkspace/restartRouter/launch.sh
-15 01 * * Tue /home/pi/hworkspace/restartRouter/launch.sh
-15 01 * * Wed /home/pi/hworkspace/restartRouter/launch.sh
-15 01 * * Thu /home/pi/hworkspace/restartRouter/launch.sh
-15 01 * * Fri /home/pi/hworkspace/restartRouter/launch.sh
+15 04 * * Mon /home/pi/hworkspace/restartRouter/launch.sh
+15 04 * * Tue /home/pi/hworkspace/restartRouter/launch.sh
+15 04 * * Wed /home/pi/hworkspace/restartRouter/launch.sh
+15 04 * * Thu /home/pi/hworkspace/restartRouter/launch.sh
+15 04 * * Fri /home/pi/hworkspace/restartRouter/launch.sh
 15 04 * * Sat /home/pi/hworkspace/restartRouter/launch.sh
 15 04 * * Sun /home/pi/hworkspace/restartRouter/launch.sh
